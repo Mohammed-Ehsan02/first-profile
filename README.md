@@ -1,7 +1,6 @@
-# hello-world
-First Repository
+# Hello you people out there!
 
-Hello People,
+My name is Mohammed Ehsan Ullah Khan. 
 
-I am Ehsan.I am currently residing in UAE.
-I am an undegraduate student and now trying to master my self in webdeveloping and become a good web developer.
+I am building myself to become a successful Web Developer. I currently work as an intern at Laimoon (TopInterns). I am facinated by the technology out there, love breaking and exploring it alot. Aiming one day to deploy my web developer skills to develop, support or build technology and to apply it in medical science.
+
